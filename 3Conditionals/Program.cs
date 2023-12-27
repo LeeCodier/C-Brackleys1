@@ -11,9 +11,9 @@ namespace Conditionals{
 
           int point = 0;
           
-          Console.WriteLine("What is 1+1?");
+          Console.WriteLine("What is 2+2?");
           int q1 = Convert.ToInt32(Console.ReadLine());
-          if (q1 == 2)
+          if (q1 == 4)
           {
            point++;
              Console.WriteLine("Correct");
