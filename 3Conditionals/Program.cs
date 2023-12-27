@@ -11,7 +11,7 @@ namespace Conditionals{
 
           int point = 0;
           
-          Console.WriteLine("What is 2+2?");
+          Console.WriteLine("What is 2*2?");
           int q1 = Convert.ToInt32(Console.ReadLine());
           if (q1 == 4)
           {
