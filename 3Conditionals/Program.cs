@@ -6,7 +6,7 @@ namespace Conditionals{
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Welcome quizmaster, answer 5 questions\nyou must get at least 4 correct to win");
+           Console.WriteLine("Welcome, quizmaster, answer 5 questions\nyou must get at least 4 correct to win");
            Console.ReadKey();  
 
           int point = 0;
