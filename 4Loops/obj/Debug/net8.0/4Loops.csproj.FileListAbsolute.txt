@@ -1,0 +1,15 @@
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.AssemblyInfoInputs.cache
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.AssemblyInfo.cs
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.csproj.CoreCompileInputs.cache
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.sourcelink.json
+D:\C#Brackleys\4Loops\bin\Debug\net8.0\4Loops.exe
+D:\C#Brackleys\4Loops\bin\Debug\net8.0\4Loops.deps.json
+D:\C#Brackleys\4Loops\bin\Debug\net8.0\4Loops.runtimeconfig.json
+D:\C#Brackleys\4Loops\bin\Debug\net8.0\4Loops.dll
+D:\C#Brackleys\4Loops\bin\Debug\net8.0\4Loops.pdb
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.dll
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\refint\4Loops.dll
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.pdb
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\4Loops.genruntimeconfig.cache
+D:\C#Brackleys\4Loops\obj\Debug\net8.0\ref\4Loops.dll
