@@ -1,0 +1,14 @@
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\3Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\3Conditionals.AssemblyInfoInputs.cache
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\3Conditionals.AssemblyInfo.cs
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\3Conditionals.csproj.CoreCompileInputs.cache
+D:\C#Brackleys\3Conditionals\bin\Debug\net8.0\3Conditionals.exe
+D:\C#Brackleys\3Conditionals\bin\Debug\net8.0\3Conditionals.deps.json
+D:\C#Brackleys\3Conditionals\bin\Debug\net8.0\3Conditionals.runtimeconfig.json
+D:\C#Brackleys\3Conditionals\bin\Debug\net8.0\3Conditionals.dll
+D:\C#Brackleys\3Conditionals\bin\Debug\net8.0\3Conditionals.pdb
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\3Conditionals.dll
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\refint\3Conditionals.dll
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\3Conditionals.pdb
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\3Conditionals.genruntimeconfig.cache
+D:\C#Brackleys\3Conditionals\obj\Debug\net8.0\ref\3Conditionals.dll

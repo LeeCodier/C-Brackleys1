@@ -1,0 +1,14 @@
+D:\C#Brackleys\2Variables\bin\Debug\net8.0\2Variables.exe
+D:\C#Brackleys\2Variables\bin\Debug\net8.0\2Variables.deps.json
+D:\C#Brackleys\2Variables\bin\Debug\net8.0\2Variables.runtimeconfig.json
+D:\C#Brackleys\2Variables\bin\Debug\net8.0\2Variables.dll
+D:\C#Brackleys\2Variables\bin\Debug\net8.0\2Variables.pdb
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\2Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\2Variables.AssemblyInfoInputs.cache
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\2Variables.AssemblyInfo.cs
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\2Variables.csproj.CoreCompileInputs.cache
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\2Variables.dll
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\refint\2Variables.dll
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\2Variables.pdb
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\2Variables.genruntimeconfig.cache
+D:\C#Brackleys\2Variables\obj\Debug\net8.0\ref\2Variables.dll
