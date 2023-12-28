@@ -1,0 +1,15 @@
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.AssemblyInfoInputs.cache
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.AssemblyInfo.cs
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.csproj.CoreCompileInputs.cache
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.sourcelink.json
+D:\C#Brackleys\6Methods\bin\Debug\net8.0\6Methods.exe
+D:\C#Brackleys\6Methods\bin\Debug\net8.0\6Methods.deps.json
+D:\C#Brackleys\6Methods\bin\Debug\net8.0\6Methods.runtimeconfig.json
+D:\C#Brackleys\6Methods\bin\Debug\net8.0\6Methods.dll
+D:\C#Brackleys\6Methods\bin\Debug\net8.0\6Methods.pdb
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.dll
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\refint\6Methods.dll
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.pdb
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\6Methods.genruntimeconfig.cache
+D:\C#Brackleys\6Methods\obj\Debug\net8.0\ref\6Methods.dll
