@@ -20,7 +20,7 @@ namespace Methods{
 
 
 
-    //method that returns things
+    //method that returns things the return data type 'int' must be specified
    static int Square(int number)
     {
         int result = number * number;
