@@ -1,0 +1,15 @@
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.AssemblyInfoInputs.cache
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.AssemblyInfo.cs
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.csproj.CoreCompileInputs.cache
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.sourcelink.json
+D:\C#Brackleys\5Arrays\bin\Debug\net8.0\5Arrays.exe
+D:\C#Brackleys\5Arrays\bin\Debug\net8.0\5Arrays.deps.json
+D:\C#Brackleys\5Arrays\bin\Debug\net8.0\5Arrays.runtimeconfig.json
+D:\C#Brackleys\5Arrays\bin\Debug\net8.0\5Arrays.dll
+D:\C#Brackleys\5Arrays\bin\Debug\net8.0\5Arrays.pdb
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.dll
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\refint\5Arrays.dll
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.pdb
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\5Arrays.genruntimeconfig.cache
+D:\C#Brackleys\5Arrays\obj\Debug\net8.0\ref\5Arrays.dll
